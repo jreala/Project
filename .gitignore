@@ -1,3 +1,4 @@
+*.suo
 *.sln
 *.userprefs
 *.csproj
@@ -16,3 +17,6 @@ Untitled/Library/AssetImportState
 Untitled/Library/InspectorExpandedItems.asset
 Untitled/Library/shadercompiler-1.log
 Untitled/Assets/Assets
+Untitled/Assets/InstantGui
+Untitled/Assets/InstantGui.meta
+Untitled/Untitled-csharp.v12.suo

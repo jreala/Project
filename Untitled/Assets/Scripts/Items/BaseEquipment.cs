@@ -6,7 +6,7 @@ public class BaseEquipment : BaseStatItem
     public enum EquipmentTypes
     {
         HEAD,
-        CHEST,
+        BODY,
         HANDS,
         WAIST,
         LEGS,
